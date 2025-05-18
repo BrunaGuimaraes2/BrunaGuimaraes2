@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=150&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Bruna+Guimarães;Tenho+24+Anos+de+Idade;Eu+Moro+Em+Curitiba,+PR;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Bruna+Guimarães;Tenho+25+Anos+de+Idade;Eu+Moro+Em+Curitiba,+PR;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunaGuimaraes2&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Bruna Guimarães github stats" /> 
